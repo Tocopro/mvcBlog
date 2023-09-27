@@ -25,25 +25,25 @@ After the user is finished they can logout of the page.
 The are no files created independently to be downloaded for the installation of the app, just node packages to deploy and run the app.
 
 packages necessary for the app to function are as follows:
- bcrypt
+ BCRYPT
 
- connect-session-sequelize
+ CONNECT-SESSION-SEQUELIZE
 
- dotenv
+DOTENV
 
- express
+ EXPRESS
  
- express-handlebars
+ EXPRESS-HANDLEBARS
 
- express-session
+ EXPRESS-SESSION
 
- mysql2
+ MYSQL2
 
- mysql
+ MYSQL
 
- sequelize
+ SEQUELIZE
 
- A Database named tech_blog_db
+ A Database named TECH_BLOG_DB
 
  ## Usage
 
