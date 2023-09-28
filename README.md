@@ -22,7 +22,7 @@ After the user is finished they can logout of the page.
 
 ## Installation
 
-The are no files created independently to be downloaded for the installation of the app, just node packages to deploy and run the app.
+The are no files created independently to be downloaded for the installation of the app, just node packages to deploy and run the app  in heroku.
 
 packages necessary for the app to function are as follows:
  BCRYPT
@@ -57,6 +57,8 @@ Nicholas Wachira
 
 ## Contact
 
-[GitHub Profile]()
+[GitHub Profile](https://github.com/Tocopro/mvcBlog)
 
 Email Me -- nicwac200g@gmail.com
+
+![Alt text](techBlog.png)
